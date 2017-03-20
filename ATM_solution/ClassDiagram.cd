@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="clientATM">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <InheritanceLine Type="mainATM" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.75" Y="3.003" />
+        <Point X="4.125" Y="3.003" />
+        <Point X="4.125" Y="2.125" />
+        <Point X="4.75" Y="2.125" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAACAAAAAAgAAAEAAABAAAAAAAAgAIAAA=</HashCode>
+      <FileName>clientATM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mainATM">
+    <Position X="2" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAEIAAAAAAIAgAAIABAAAAIAAABARgACAAA=</HashCode>
+      <FileName>mainATM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fileControl">
+    <Position X="9.75" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAoAAAAAAAAAAAQBBAAAQAUAAAgCAAAiAAAAAAA=</HashCode>
+      <FileName>fileControl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BALANCE" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAIAAAAAAAAAAiAAAAAAA=</HashCode>
+      <FileName>fileControl.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="client">
+    <Position X="7" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAgAAAAAAAIAAEMBRIBIAAAAAACJgMwAMA=</HashCode>
+      <FileName>client.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
